@@ -1,6 +1,9 @@
 # abn-amro
 Community based ABN Amro bank report analyzer
 
+**UPD**
+ABN Amro released mobile application called [Grip](https://www.abnamro.nl/nl/prive/apps/grip/index.html). It is in Dutch by the idea the same as this one.
+
 **ALPHA**
 To try it:
 * install [docker](https://docker.io);
